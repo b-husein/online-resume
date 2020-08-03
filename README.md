@@ -1,5 +1,5 @@
 # online-resume
-online-resume that contain links toward relevant networks
+My online resume that contains basic information about my work experience; 
 
 🔥 FOLLOW ME ON:
 
