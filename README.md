@@ -1,4 +1,4 @@
-# online-resume
+# my-online-resume
 ## My online resume that contains basic information about my work experience; 
 
 🔥 FOLLOW ME ON:
