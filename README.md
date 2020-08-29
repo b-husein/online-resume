@@ -1,5 +1,4 @@
 # my-online-resume
-## My online resume that contains basic information about my work experience; 
 
 💻 USEFUL PLAYLISTS:
 
